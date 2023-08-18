@@ -4,7 +4,7 @@
  
 - 🔭 I’m currently working on [2bEgypt](https://apps.apple.com/eg/app/2b-egypt/id1486844812)
 
-- 👯 I’m looking to collaborate on **iOS Development , Concurrency and UI designing,**
+- 👯 I’m looking to collaborate on **iOS Development and UI designing,**
 
 - 📝 I regularly write articles on [https://medium.com/@ahmedaboelsood1962](https://medium.com/@ahmedaboelsood1962)
 
