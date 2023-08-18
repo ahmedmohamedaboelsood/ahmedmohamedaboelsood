@@ -1,10 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ahmed Abo Elsood</h1>
 <h3 align="left">A passionate iOS developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedaboelsood&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedaboelsood" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmohamedaboelsood" alt="ahmedmohamedaboelsood" /></a> </p>
-
+ 
 - 🔭 I’m currently working on [2bEgypt](https://apps.apple.com/eg/app/2b-egypt/id1486844812)
 
 - 👯 I’m looking to collaborate on **SwiftUI , Concurrency and UI designing,**
@@ -28,3 +25,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmohamedaboelsood&show_icons=true&locale=en&layout=compact" alt="ahmedmohamedaboelsood" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamedaboelsood&" alt="ahmedmohamedaboelsood" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmohamedaboelsood" alt="ahmedmohamedaboelsood" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedaboelsood&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedaboelsood" /> </p>
