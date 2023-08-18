@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Abo Elsood</h1>
-<h3 align="center">A passionate iOS developer from Egypt</h3>
+<h1 align="left">Hi 👋, I'm Ahmed Abo Elsood</h1>
+<h3 align="left">A passionate iOS developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedaboelsood&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedaboelsood" /> </p>
 
