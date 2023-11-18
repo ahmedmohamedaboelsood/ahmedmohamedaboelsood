@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ahmed Abo Elsood</h1>
 <h3 align="left">A passionate iOS developer from Egypt</h3>
-<img src="https://thumbs.gfycat.com/AdolescentSpryHarborseal.webp" alt="Image" align="right" width = "120">
  
 - 🔭 I’m currently working on [2bEgypt](https://apps.apple.com/eg/app/2b-egypt/id1486844812)
 
